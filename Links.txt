@@ -1,0 +1,4 @@
+Invite: https://discordapp.com/oauth2/authorize?client_id=365958655926992896&scope=bot&permissions=2146958591
+Discordbots.org: https://discordbots.org/bot/365958655926992896
+Discord Guild: https://discord.gg/76PAmCv
+Discord Testing Guild: https://discord.gg/WpzQR5p
