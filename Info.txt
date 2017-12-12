@@ -1,0 +1,8 @@
+#Luki Docs
+The official docs of Luki the Discord Bot
+
+Prefix: d.
+Lib: Discord.js
+Language: NodeJS
+
+Developer: MrSheldon#4725
