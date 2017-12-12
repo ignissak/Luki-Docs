@@ -1,0 +1,73 @@
+Fun commands:
+l.slap slap someone
+l.hug hug someone
+l.cat send cat image
+l.dog send dog image
+l.flipcoin Returns "Heads" or "Tails"
+l.urban [word] Pulls information from Urban Dictionary about the word requested.
+
+Music commands:
+l.play play song
+l.stop stop the music
+l.skip skip the playing song
+l.pause pause the music
+l.resume resume the music
+l.connect connect the bot to the correct voice channel
+l.disconnect disconnet the bot from voice channel
+l.volume [1-100] set the music volume
+l.search search for video at youtube
+
+General Commands:
+l.help Lists available commands
+l.invite For invite me
+l.links For all the links
+l.about About Luki
+l.avatar [@user] Get the mention user avatar
+l.announce [#channel] [message] create embed announcement
+l.say [text] say what you said 
+l.poll [Question] Create a poll
+l.bugreport [the bug] Found a bug? Please let us now
+l.discordbot [botID] Information about bot, work only if he listed in discordbots.org
+
+Info Commands:
+l.userinfo [@user] Info about the mentioned user
+l.serverinfo Info about the currect server
+l.roleinfo [@role] Info about the mentioned role
+l.channelinfo [#channel] Info about the mentioned channel
+l.roleid [@role] say the mentioned role ID
+l.memberid [@user] say the mentioned user ID
+l.membercount say how many members there is in the correct server
+
+Moderation Commands:
+l.purge [1-100] Delete amount of messages
+l.ban [@user]  [reason] ban user
+l.kick [@user] [reason] kick user
+l.warn [@user] [reason] warn user
+l.warnings [@user] see user's warnings
+l.clearwarnings [@user] clear user's warnings
+l.mute [@user] [1-10000 minutes] Mute user
+l.unmute [@user] Unmute user
+
+Role control:
+l.addrole [rolename] add role
+l.delrole [@rolename] delete role
+
+Global Leveling:
+l.lvlsinfo Information about the leveling system
+l.level Show your level
+l.checklevel [@user] check someone else level
+l.levels disable/enable the leveling system on your server
+
+Games:
+l.osu [user] osu! stats
+l.roblox [user] Roblox stats
+l.mcserver [IP] Minecraft server stats
+l.mcskin [user] 3D Skin of Minecraft user
+l.mcavatar [user] Avatar of Minecraft user
+l.ow [PC/XBL/PSN] [US/EU/KR/CN/GLOBAL] [btag-0000] Overwatch stats
+
+Social:
+l.newvideo [video URL] [icon URL] [name] create new video announcement
+l.newlive [live URL] [icon URL] [name] create new live announcement
+
+How to get Icon URL (YT)? https://img.youtube.com/vi/ID/0.jpg replace the ID with your live/video ID
