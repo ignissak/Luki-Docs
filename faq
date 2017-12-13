@@ -1,0 +1,11 @@
+Is there is a full list of commands?
+Yes, all bot commands are listed on https://github.com/mrsheldon/Luki-Docs/commands
+
+ Why commands doesn't work?
+ The most likely case is that you didn't type it right
+
+ What language is the bot written in and what library do you use?
+ JavaScript is the language and discord.js is the library.
+
+Is the code available for me to see and use?
+No, the bot's code is closed source
